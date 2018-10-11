@@ -106,3 +106,6 @@ venv.bak/
 # antlr
 .antlr/
 *.tokens
+
+# vscode settings
+.vscode/
